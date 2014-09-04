@@ -1,4 +1,4 @@
-~~~ javascript
+
 % outputMatchNodeListsWithGraphs(NodeLists, Graphs)
 % Performs pairwise comparisons of lists of nodes against graphs. 
 % Input: node/2 and edge/3 assertions included in this file
@@ -353,5 +353,3 @@ edge(n6,n5,g3).
 
 
 
-
-~~~
