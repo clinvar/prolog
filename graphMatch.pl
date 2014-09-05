@@ -7,8 +7,7 @@
 %
 % Author: Aleks Milosavljevic 9/1/2014, BRL, BCM
 %
-% Annotated by Xin Feng, 09/04/2014
-%
+
 
 outputMatchNodeListsWithGraphs(NodeLists, Graphs):-
   % open the file for writing
